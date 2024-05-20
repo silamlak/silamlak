@@ -2,7 +2,7 @@
 
 I am a MERN stack developer, my journey involves immersing myself in the world of computer science, building scalable web applications, exploring innovative ideas, and sharing my insights with the community.
 
-![silamlak's Stats](https://github-readme-stats.vercel.app/api?username=silamlak&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![my Stats](https://github-readme-stats.vercel.app/api?username=silamlak&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
