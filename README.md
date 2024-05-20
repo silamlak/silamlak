@@ -1,6 +1,6 @@
 # Hi, I'm Fikadu Getaye! 👋
 
-I am a MERN stack developer, my journey involves immersing myself in the world of computer science, building scalable web applications, exploring innovative ideas, and sharing my insights with the community.
+I am a MERN stack developer, and my journey involves immersing myself in the world of computer science. I specialize in building scalable web applications using the MERN stack (MongoDB, Express.js, React, and Node.js) and developing mobile applications with React Native for both Android and iOS platforms. I am passionate about exploring innovative ideas and sharing my insights with the community.
 
 ![my Stats](https://github-readme-stats.vercel.app/api?username=silamlak&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
