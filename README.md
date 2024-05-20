@@ -16,7 +16,7 @@ I am a MERN stack developer, my journey involves immersing myself in the world o
 
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter](@FikaduGeta44574)
+- Connect with me on [Twitter]([@FikaduGeta44574](https://x.com/FikaduGeta44574))
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
